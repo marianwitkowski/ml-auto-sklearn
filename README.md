@@ -1,7 +1,7 @@
 
 # Wykorzystanie biblioteki *auto-sklearn* do tworzenia modeli uczenia maszynowego.
 
-## Kontakt: Marian Witkowski marian.witkowski@gmail.com
+## Autor: Marian Witkowski marian.witkowski@gmail.com
 ---
 
 **Spis Treści**
